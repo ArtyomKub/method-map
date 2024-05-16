@@ -1,5 +1,4 @@
 import React from 'react';
-import {useState} from 'react';
 import {NewComponent} from './NewComponent';
 
 
@@ -15,6 +14,7 @@ function App() {
             {id: 8, name: 'Joseph', age: 78},
             {id: 9, name: 'Thomas', age: 88},
             {id: 10, name: 'Charles', age: 98},
+            {id: 11, name: 'Christopher', age: 100},
             {id: 11, name: 'Christopher', age: 100},
         ]
     )
