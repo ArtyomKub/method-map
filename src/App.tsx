@@ -16,6 +16,8 @@ function App() {
             {id: 10, name: 'Charles', age: 98},
             {id: 11, name: 'Christopher', age: 100},
             {id: 11, name: 'Christopher', age: 100},
+            {id: 11, name: 'Christopher', age: 100},
+            {id: 11, name: 'Christopher', age: 100},
         ]
     )
     return (
